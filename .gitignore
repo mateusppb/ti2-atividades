@@ -1,1 +1,12 @@
-/target/
+# Eclipse
+.settings/
+.project
+.classpath
+
+# Arquivos de build
+target/
+bin/
+
+# Outros lixos do sistema
+*.log
+*.tmp
